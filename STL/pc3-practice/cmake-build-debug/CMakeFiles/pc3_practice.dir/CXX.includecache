@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/CLionProjects/STL/pc3-practice/Funciones.h
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+stack
+-
+map
+-
+queue
+-
+deque
+-
+bits/stdc++.h
+-
+
+C:/Users/felix/CLionProjects/STL/pc3-practice/main.cpp
+Funciones.h
+C:/Users/felix/CLionProjects/STL/pc3-practice/Funciones.h
+

@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/REACTIVA/OBSERVADOR/cmake-build-debug/CMakeFiles/OBSERVADOR.dir
+C:/Users/felix/CLionProjects/REACTIVA/OBSERVADOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/CLionProjects/REACTIVA/OBSERVADOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir

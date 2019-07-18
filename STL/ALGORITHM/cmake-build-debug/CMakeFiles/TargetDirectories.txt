@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/STL/ALGORITHM/cmake-build-debug/CMakeFiles/ALGORITHM.dir
+C:/Users/felix/CLionProjects/STL/ALGORITHM/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/CLionProjects/STL/ALGORITHM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

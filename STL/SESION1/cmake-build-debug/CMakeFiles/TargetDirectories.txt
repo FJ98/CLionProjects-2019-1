@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/STL/SESION1/cmake-build-debug/CMakeFiles/SESION1.dir
+C:/Users/felix/CLionProjects/STL/SESION1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/CLionProjects/STL/SESION1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

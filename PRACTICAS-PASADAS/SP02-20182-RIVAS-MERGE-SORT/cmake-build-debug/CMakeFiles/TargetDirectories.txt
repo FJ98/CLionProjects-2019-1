@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/PRACTICAS/SP02-20182-RIVAS/cmake-build-debug/CMakeFiles/SP02_20182_RIVAS.dir
+C:/Users/felix/CLionProjects/PRACTICAS/SP02-20182-RIVAS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/CLionProjects/PRACTICAS/SP02-20182-RIVAS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

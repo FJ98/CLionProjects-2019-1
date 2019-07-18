@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/FaultToleranceTask.cpp
+FaultToleranceTask.h
+/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/FaultToleranceTask.h
+
+/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/FaultToleranceTask.h
+iostream
+-
+Task.h
+/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/Task.h
+
+/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/Task.h
+iostream
+-
+

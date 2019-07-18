@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/SP01-20182-STANISH(1)/Queue.h
+Task.h
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/SP01-20182-STANISH(1)/Task.h
+
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/SP01-20182-STANISH(1)/Task.h
+string
+-
+
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/SP01-20182-STANISH(1)/main.cpp
+iostream
+-
+Queue.h
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/SP01-20182-STANISH(1)/Queue.h
+random
+-
+

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ESTNISH20191_PC2.dir/main.cpp.o CMakeFiles/ESTNISH20191_PC2.dir/Process.cpp.o  -o ESTNISH20191_PC2.exe -Wl,--out-implib,libESTNISH20191_PC2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

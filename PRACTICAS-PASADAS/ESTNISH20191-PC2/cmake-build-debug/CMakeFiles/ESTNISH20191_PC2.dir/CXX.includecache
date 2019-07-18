@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/ESTNISH20191-PC2/Process.cpp
+utility
+-
+Process.h
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/ESTNISH20191-PC2/Process.h
+random
+-
+iostream
+-
+
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/ESTNISH20191-PC2/Process.h
+string
+-
+

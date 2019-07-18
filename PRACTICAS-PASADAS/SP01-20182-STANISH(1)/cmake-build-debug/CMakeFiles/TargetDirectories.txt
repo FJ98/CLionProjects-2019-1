@@ -1,0 +1,3 @@
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/SP01-20182-STANISH(1)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/SP01-20182-STANISH(1)/cmake-build-debug/CMakeFiles/SP01_20182_STANISH_1_.dir
+/cygdrive/c/Users/felix/CLionProjects/PRACTICAS/SP01-20182-STANISH(1)/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Tarea3-LP.dir/main.cpp.o CMakeFiles/Tarea3-LP.dir/Carga.cpp.o CMakeFiles/Tarea3-LP.dir/Simulador.cpp.o CMakeFiles/Tarea3-LP.dir/Puntos.cpp.o  -o Tarea3-LP.exe -Wl,--out-implib,libTarea3-LP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

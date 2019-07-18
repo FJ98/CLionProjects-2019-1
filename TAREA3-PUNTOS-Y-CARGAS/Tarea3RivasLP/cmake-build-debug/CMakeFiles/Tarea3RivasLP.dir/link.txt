@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Tarea3RivasLP.dir/main.cpp.o CMakeFiles/Tarea3RivasLP.dir/Carga.cpp.o CMakeFiles/Tarea3RivasLP.dir/Simulador.cpp.o  -o Tarea3RivasLP.exe -Wl,--out-implib,libTarea3RivasLP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

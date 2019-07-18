@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/CLionProjects/TEMPLATES/2_SESION/Funciones.h
+iostream
+-
+vector
+-
+algorithm
+-
+stack
+-
+queue
+-
+map
+-
+random
+-
+
+C:/Users/felix/CLionProjects/TEMPLATES/2_SESION/main.cpp
+iostream
+-
+Funciones.h
+C:/Users/felix/CLionProjects/TEMPLATES/2_SESION/Funciones.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/Tarea3Rivas/Carga.h
+
+/cygdrive/c/Users/felix/CLionProjects/Tarea3Rivas/Simulador.cpp
+Simulador.h
+/cygdrive/c/Users/felix/CLionProjects/Tarea3Rivas/Simulador.h
+iostream
+-
+vector
+-
+
+/cygdrive/c/Users/felix/CLionProjects/Tarea3Rivas/Simulador.h
+Carga.h
+/cygdrive/c/Users/felix/CLionProjects/Tarea3Rivas/Carga.h
+vector
+-
+

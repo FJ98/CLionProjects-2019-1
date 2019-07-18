@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Carga.cpp
+Carga.h
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Carga.h
+
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Carga.h
+
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Puntos.cpp
+Puntos.h
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Puntos.h
+
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Puntos.h
+
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Simulador.cpp
+Simulador.h
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Simulador.h
+
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Simulador.h
+Carga.h
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Carga.h
+Puntos.h
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Puntos.h
+fstream
+-
+sstream
+-
+vector
+-
+iterator
+-
+cmath
+-
+iostream
+-
+
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/main.cpp
+Simulador.h
+/cygdrive/c/Users/felix/CLionProjects/TAREA3-PUNTOS-Y-CARGAS/T3-LP/Simulador.h
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HR1_2018_2_MiINTENTO"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HR1_2018_2_MiINTENTO">
+				<Option output="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/HR1_2018_2_MiINTENTO.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 HR1_2018_2_MiINTENTO"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HR1_2018_2_MiINTENTO/fast">
+				<Option output="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/HR1_2018_2_MiINTENTO.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 HR1_2018_2_MiINTENTO/fast"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/FaultToleranceTask.cpp">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/FaultToleranceTask.h">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/Queue.cpp">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/Queue.h">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/SingleTask.cpp">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/SingleTask.h">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/Task.cpp">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/Task.h">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/main.cpp">
+			<Option target="HR1_2018_2_MiINTENTO"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/felix/CLionProjects/HR1(2018-2)MiINTENTO/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

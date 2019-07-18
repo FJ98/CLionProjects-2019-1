@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/SP01_20182_STANISH_1_.dir/main.cpp.o CMakeFiles/SP01_20182_STANISH_1_.dir/Task.cpp.o CMakeFiles/SP01_20182_STANISH_1_.dir/Queue.cpp.o  -o SP01_20182_STANISH_1_.exe -Wl,--out-implib,libSP01_20182_STANISH_1_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

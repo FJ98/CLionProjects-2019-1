@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/CLionProjects/SMARTPOINTERS/SmartPoint.h
+utility
+-
+functional
+-
+
+C:/Users/felix/CLionProjects/SMARTPOINTERS/main.cpp
+iostream
+-
+vector
+-
+random
+-
+SmartPoint.h
+C:/Users/felix/CLionProjects/SMARTPOINTERS/SmartPoint.h
+

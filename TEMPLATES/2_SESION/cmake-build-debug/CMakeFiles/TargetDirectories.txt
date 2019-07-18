@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/TEMPLATES/2_SESION/cmake-build-debug/CMakeFiles/2_SESION.dir
+C:/Users/felix/CLionProjects/TEMPLATES/2_SESION/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/CLionProjects/TEMPLATES/2_SESION/cmake-build-debug/CMakeFiles/rebuild_cache.dir

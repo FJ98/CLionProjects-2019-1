@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/T3_LP.dir/main.cpp.o CMakeFiles/T3_LP.dir/Simulador.cpp.o CMakeFiles/T3_LP.dir/Carga.cpp.o CMakeFiles/T3_LP.dir/Puntos.cpp.o  -o T3_LP.exe -Wl,--out-implib,libT3_LP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
