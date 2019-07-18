@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(PROGRESIONES_POLIMORFISMO)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(PROGRESIONES_POLIMORFISMO main.cpp)

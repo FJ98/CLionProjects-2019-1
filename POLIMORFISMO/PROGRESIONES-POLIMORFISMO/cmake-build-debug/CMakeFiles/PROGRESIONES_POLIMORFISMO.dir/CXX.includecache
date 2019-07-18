@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Control.cpp
+Control.h
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Control.h
+
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Control.h
+Progresion.h
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Progresion.h
+
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Progresion.cpp
+Progresion.h
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Progresion.h
+iostream
+-
+cmath
+-
+
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Progresion.h
+vector
+-
+
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/main.cpp
+iostream
+-
+Progresion.cpp
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Progresion.cpp
+Control.cpp
+C:/Users/felix/CLionProjects/POLIMORFISMO/PROGRESIONES-POLIMORFISMO/Control.cpp
+

@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/PARALELA THREADS/PC4GRUPAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/felix/CLionProjects/PARALELA THREADS/PC4GRUPAL/cmake-build-debug/CMakeFiles/PC4GRUPAL.dir
+C:/Users/felix/CLionProjects/PARALELA THREADS/PC4GRUPAL/cmake-build-debug/CMakeFiles/edit_cache.dir

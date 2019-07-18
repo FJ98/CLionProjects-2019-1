@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/poli1Rivas.dir/main.cpp.o CMakeFiles/poli1Rivas.dir/Progression.cpp.o CMakeFiles/poli1Rivas.dir/Progression-test.cpp.o  -o poli1Rivas.exe -Wl,--out-implib,libpoli1Rivas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

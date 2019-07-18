@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/PrimeraClase.dir/main.cpp.o CMakeFiles/PrimeraClase.dir/Geometria.cpp.o  -o PrimeraClase.exe -Wl,--out-implib,libPrimeraClase.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

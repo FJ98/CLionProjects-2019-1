@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/cmake-build-debug/CMakeFiles/hilosClase1.dir
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/cmake-build-debug/CMakeFiles/edit_cache.dir

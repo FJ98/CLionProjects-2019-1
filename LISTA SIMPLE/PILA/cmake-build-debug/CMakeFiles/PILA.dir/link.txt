@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/PILA.dir/main.cpp.o  -o PILA.exe -Wl,--out-implib,libPILA.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

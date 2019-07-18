@@ -1,0 +1,3 @@
+C:/Users/felix/CLionProjects/LISTA SIMPLE/LISTALP/cmake-build-debug/CMakeFiles/LISTALP.dir
+C:/Users/felix/CLionProjects/LISTA SIMPLE/LISTALP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/CLionProjects/LISTA SIMPLE/LISTALP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

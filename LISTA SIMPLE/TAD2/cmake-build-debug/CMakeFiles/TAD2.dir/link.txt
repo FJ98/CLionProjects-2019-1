@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/TAD2.dir/main.cpp.o CMakeFiles/TAD2.dir/Lista.cpp.o  -o TAD2.exe -Wl,--out-implib,libTAD2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

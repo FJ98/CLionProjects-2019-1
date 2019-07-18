@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/TAD2/Lista.h
+
+/cygdrive/c/Users/felix/CLionProjects/TAD2/main.cpp
+iostream
+-
+Lista.h
+/cygdrive/c/Users/felix/CLionProjects/TAD2/Lista.h
+

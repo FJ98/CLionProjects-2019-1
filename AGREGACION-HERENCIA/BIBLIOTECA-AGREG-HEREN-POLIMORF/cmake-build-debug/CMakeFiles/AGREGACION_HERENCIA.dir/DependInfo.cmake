@@ -1,0 +1,24 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/Biblioteca.cpp" "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/cmake-build-debug/CMakeFiles/AGREGACION_HERENCIA.dir/Biblioteca.cpp.o"
+  "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/Libro.cpp" "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/cmake-build-debug/CMakeFiles/AGREGACION_HERENCIA.dir/Libro.cpp.o"
+  "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/Revista.cpp" "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/cmake-build-debug/CMakeFiles/AGREGACION_HERENCIA.dir/Revista.cpp.o"
+  "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/Volumen.cpp" "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/cmake-build-debug/CMakeFiles/AGREGACION_HERENCIA.dir/Volumen.cpp.o"
+  "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/main.cpp" "/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/cmake-build-debug/CMakeFiles/AGREGACION_HERENCIA.dir/main.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

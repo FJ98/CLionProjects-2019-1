@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/Funciones.h
+iostream
+-
+numeric
+-
+vector
+-
+thread
+-
+algorithm
+-
+chrono
+-
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/LinkedListLock.h
+iostream
+-
+thread
+-
+mutex
+-
+future
+-
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/TBT.h
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+mutex
+-
+future
+-
+list
+-
+Funciones.h
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/Funciones.h
+LinkedListLock.h
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/LinkedListLock.h
+TBT.h
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosClase1/TBT.h
+

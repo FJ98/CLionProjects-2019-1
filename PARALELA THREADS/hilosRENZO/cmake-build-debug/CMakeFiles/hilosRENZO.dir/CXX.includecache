@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/ArMatriz.h
+iostream
+-
+vector
+-
+future
+-
+thread
+-
+assert.h
+-
+sys/time.h
+-
+random
+-
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/EjMatrizRivas.h
+random
+-
+iostream
+-
+thread
+-
+mutex
+-
+future
+-
+algorithm
+-
+iterator
+-
+iomanip
+-
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/RenzoMatriz.h
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+assert.h
+-
+sys/time.h
+-
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/SMatriz.h
+thread
+-
+iostream
+-
+random
+-
+
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/main.cpp
+EjMatrizRivas.h
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/EjMatrizRivas.h
+ArMatriz.h
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/ArMatriz.h
+RenzoMatriz.h
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/RenzoMatriz.h
+SMatriz.h
+C:/Users/felix/CLionProjects/PARALELA THREADS/hilosRENZO/SMatriz.h
+

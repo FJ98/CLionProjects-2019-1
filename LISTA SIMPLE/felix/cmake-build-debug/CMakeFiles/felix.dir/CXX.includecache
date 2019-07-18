@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/felix/BinarySearchTree.h
+Location.h
+/cygdrive/c/Users/felix/CLionProjects/felix/Location.h
+
+/cygdrive/c/Users/felix/CLionProjects/felix/LinkedList.h
+Location.h
+/cygdrive/c/Users/felix/CLionProjects/felix/Location.h
+
+/cygdrive/c/Users/felix/CLionProjects/felix/Location.h
+string
+-
+iostream
+-
+
+/cygdrive/c/Users/felix/CLionProjects/felix/main.cpp
+sstream
+-
+string
+-
+iostream
+-
+vector
+-
+fstream
+-
+LinkedList.h
+/cygdrive/c/Users/felix/CLionProjects/felix/LinkedList.h
+BinarySearchTree.h
+/cygdrive/c/Users/felix/CLionProjects/felix/BinarySearchTree.h
+

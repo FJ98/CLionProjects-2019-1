@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/PILA3/Pila.cpp
+Pila.h
+/cygdrive/c/Users/felix/CLionProjects/PILA3/Pila.h
+iostream
+-
+
+/cygdrive/c/Users/felix/CLionProjects/PILA3/Pila.h
+
+/cygdrive/c/Users/felix/CLionProjects/PILA3/main.cpp
+iostream
+-
+random
+-
+Pila.h
+/cygdrive/c/Users/felix/CLionProjects/PILA3/Pila.h
+

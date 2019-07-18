@@ -1,0 +1,3 @@
+/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/cmake-build-debug/CMakeFiles/AGREGACION_HERENCIA.dir
+/cygdrive/c/Users/felix/CLionProjects/AGREGACION-HERENCIA/cmake-build-debug/CMakeFiles/edit_cache.dir
